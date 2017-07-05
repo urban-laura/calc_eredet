@@ -1,0 +1,68 @@
+.title
+{
+	background-color : #005398; 
+	font-family : Verdana; 
+	width : 600px; 
+	height : 50px; 
+	border-radius : 5px 5px 0px 0px; 
+	text-align : center; 
+	font-weight: bold; 
+	color : white;
+	font-size : 20px;
+}
+
+.center
+{
+	background-color : #EEEEEE;
+	color: #01224a;
+	font-family : Verdana; 
+	width : 600px;
+	padding : 15px;
+}
+
+.dijak
+{
+	width : 560px;
+}
+
+.zero
+{
+	background-color : #EEEEEE; 
+	width : 600px; 
+	border-radius : 0px 0px 5px 5px;
+}
+
+#szemelygepjarmuvek
+{
+	display : none;
+}
+
+#motorkerekparok
+{
+	display : none;
+}
+
+#kisteherautok
+{
+	display : none;
+}
+
+#tehergepkocsi
+{
+	display : none;
+}
+
+#autobuszok
+{
+	display : none;
+}
+
+#mezogazdasagi
+{
+	display : none;
+}
+
+#potkocsi
+{
+	display : none;
+}
