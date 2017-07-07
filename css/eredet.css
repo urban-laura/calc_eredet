@@ -1,23 +1,49 @@
+.frame
+{
+	width : 600px;
+	font-family : Verdana;
+	background-color : #EEEEEE;
+	border-radius : 5px 5px 5px 5px;
+	color: #01224a;
+	padding-bottom : 5px;
+}
+
 .title
 {
-	background-color : #005398; 
-	font-family : Verdana; 
-	width : 600px; 
+	background-color : #005398;
 	height : 50px; 
 	border-radius : 5px 5px 0px 0px; 
-	text-align : center; 
+	text-align : center;	
+}
+
+.title h1
+{
 	font-weight: bold; 
-	color : white;
 	font-size : 20px;
+	color : white;
+	margin : 0;
+	padding-top : 12px;
 }
 
 .center
 {
-	background-color : #EEEEEE;
-	color: #01224a;
-	font-family : Verdana; 
-	width : 600px;
-	padding : 15px;
+	padding : 15px; 
+	padding-top : 0;
+}
+
+.center h3
+{
+	font-size : 16px;
+	margin : 0;
+	font-weight : normal;
+}
+
+.center h4
+{
+	font-weight : normal;
+	width : 150px;
+	margin-top : 10px;
+	margin-bottom : 0;
 }
 
 .dijak
